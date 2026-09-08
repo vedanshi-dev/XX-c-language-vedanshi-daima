@@ -2,7 +2,7 @@
 
 int main() {
     // Print Hello, World! to the console
-    printf("Hello, World!\n");
+    printf("Hello, vedanshi!\n");
     
     // Indicate that the program ended successfully
     return 0;
